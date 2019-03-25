@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "541112244366",
+    "firebase_url": "https://pulsemonitorhardware.firebaseio.com",
+    "project_id": "pulsemonitorhardware",
+    "storage_bucket": "pulsemonitorhardware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541112244366:android:a42487d193a8c96c",
+        "android_client_info": {
+          "package_name": "com.quadriyanney.pulsemonitorhardware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541112244366-vtpk4nppm65kllr6j8lnu9urub3pj016.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quadriyanney.pulsemonitorhardware",
+            "certificate_hash": "92a42c37aa472e63487d059702e25f054ff2cd6a"
+          }
+        },
+        {
+          "client_id": "541112244366-54mfpr65qkv5curf34bb7iaa666itpbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzW52OaxMrdH9G_EXr0TwvDKaw6t9iddk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541112244366-54mfpr65qkv5curf34bb7iaa666itpbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
